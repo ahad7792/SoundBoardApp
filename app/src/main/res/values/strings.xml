@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Voice FunBoard</string>
+
+    <string-array name="audioNames">
+        <item>Borzah Akash Bhora Tara</item>
+        <item>Ripon Hajar Salam</item>
+        <item>Ripon Hi Friends!</item>
+        <item>Ripon Jole Jokhon Nemechi</item>
+        <item>Ripon Kemon Dilam</item>
+        <item>Ripon Ki Bolo Bondhura?</item>
+        <item>Ripon Onek Enjoy!</item>
+        <item>Ei Tui Ki Boll???</item>
+        <item>Ghumate Parina Sararat Dhore</item>
+        <item>Yo Bitch!</item>
+        <item>Gua Mara Kha</item>
+        <item>Ore Batpar!</item>
+        <item>Hisab Bujho na?</item>
+        <item>Ore Cheater</item>
+        <item>Lal Kore Dibo</item>
+        <item>Etai science</item>
+        <item>Cad utechilo</item>
+        <item>Ar kotokal</item>
+        <item>Sobar ongko mile</item>
+        <item>B(a)in(c)od</item>
+        <item>Thik ache bondhura?</item>
+
+    </string-array>
+
+    <string name="action_send">Share</string>
+    <string name="action_ringtone">Set as ...</string>
+    <string name="action_favorite">Add to favorites</string>
+    <string name="action_removefavorite">Remove favorite</string>
+
+    <string name="action_favorite_show">Favorites</string>
+    <string name="action_favorite_hide">Hide Favorites</string>
+    <string name="action_search">Search</string>
+
+    <string name="perm_write_settings_error">Function requires settings permission!</string>
+    <string name="perm_write_storage_error">Function requires storage permission!</string>
+
+    <string name="share_sound_title">Share Sound Title</string>
+
+
+</resources>
